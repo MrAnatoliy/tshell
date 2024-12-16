@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/tshell.dir/src/main.c.o -o tshell 

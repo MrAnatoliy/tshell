@@ -1,3 +1,0 @@
-/mnt/d/CodingStuff/LearningC/Projects/t_shell/build/CMakeFiles/tshell.dir
-/mnt/d/CodingStuff/LearningC/Projects/t_shell/build/CMakeFiles/edit_cache.dir
-/mnt/d/CodingStuff/LearningC/Projects/t_shell/build/CMakeFiles/rebuild_cache.dir
